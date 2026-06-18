@@ -10,6 +10,22 @@ Príprava na videohovor s 26-ročným fyzioterapeutom, ktorý prejavil záujem o
 
 ---
 
+## O čom bol tento chat
+
+Tento chat slúžil ako prípravný nástroj pred videohovorom s fyzioterapeutom. Prebehlo v ňom niekoľko kľúčových krokov:
+
+1. **Popis aplikácie hlasom/textom** – autor podrobne popísal všetky funkcie webovej časti pre fyzioterapeuta aj mobilnej aplikácie pre pacienta, vrátane správy pacientov, programov, cvikov, fáz, hodnotiacich nástrojov a nastavení.
+
+2. **Štruktúrovanie obsahu** – AI z dlhého, neformálneho opisu vytvorila prehľadné a zrozumiteľné zhrnutie aplikácie vhodné pre externého odborníka.
+
+3. **Príprava hovorenej osnovy** – vytvorená osnova prezentácie (~3 minúty), ktorú môže autor použiť priamo na videohovore: od otvorenia, cez popis problému, popis terapeutskej a pacientskej časti, až po záverečné otázky pre fyzioterapeuta.
+
+4. **Identifikácia kľúčových otázok** – chat pomohol určiť, čo je podstatné pýtať sa fyzioterapeuta a aký feedback by bol pre vývoj najcennejší.
+
+Celý obsah tohto súboru teda vznikol ako výstup z toho chatu a slúži ako referencia pred stretnutím aj pre ďalších členov tímu.
+
+---
+
 ## Aplikácia – Popis
 
 Dvojdielna platforma:
