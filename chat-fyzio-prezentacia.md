@@ -339,4 +339,46 @@ Po kliknutí na nástroj terapeut vidí:
 
 ---
 
-*Generované a doplnené pomocou Perplexity AI – príprava na stretnutie s fyzioterapeutom*
+Dátum: 23. júna 2026
+Kontext
+
+Systematické získavanie povolení na použitie validovaných hodnotiacich nástrojov (outcome measures) pre digitálnu fyzioterapeutickú platformu. Kontaktovanie autorov jednotlivých dotazníkov s cieľom zabezpečiť právne a eticky správne používanie nástrojov vrátane slovenských prekladov.
+
+O čom bol tento chat
+
+Chat slúžil na prípravu a odoslanie žiadostí o povolenie pre každý outcome measure a na spracovanie prichádzajúcich odpovedí.
+
+Príprava mailov – Pre každý nástroj bol pripravený individuálny mail s konzistentnou štruktúrou: predstavenie projektu SOČ, konkrétna žiadosť o povolenie na použitie a preklad, záväzky voči autorom, otázky k licencii.
+
+Riešenie nedoručených mailov – Pri viacerých nástrojoch boli staré kontaktné adresy nefunkčné (LEFS, PGQ, RMDQ) a boli vyhľadané aktuálne kontakty.
+
+Spracovanie odpovedí – Prišli odpovede od Dr. Martina Rolanda (RMDQ) a Dr. Britt Stugeovej (PGQ); obe boli zodpovedané.
+
+Identifikácia nástrojov nevyžadujúcich povolenie – RMDQ a RAND-36 sú verejná doména; pre oba boli identifikované správne citácie.
+
+Prehľad kontaktovaných autorov
+
+Nástroj	Autor	Kontakt	Stav
+HOOS-JR / KOOS-JR	HOOS/KOOS Research Team (HSS)	hooskoos@hss.edu	✉️ odoslané
+LEFS	Jill M. Binkley	jill@jmbinkley.com	✉️ odoslané (2 z 3 adries nedoručené)
+UEFI-15	Jill M. Binkley	jill@jmbinkley.com	✉️ odoslané (follow-up)
+PGQ	Britt Stuge	britt.stuge@outlook.com	✅ odpoveď – kontaktovať Magdalenu Hagovskú (UPJŠ)
+PGQ – SK preklad	Magdalena Hagovská	magdalena.hagovska@upjs.sk	✉️ odoslané
+RMDQ	Martin Roland	mr108@cam.ac.uk	✅ odpoveď – verejná doména, prekladaj voľne
+SPADI	Kathryn Roach	keroach@miami.edu	✉️ odoslané
+VISA-A	Victorian Institute of Sport	research@vis.org.au	✉️ odoslané
+RAND-36	RAND Corporation	–	✅ verejná doména – povolenie nie je potrebné
+RAND-36	RAND Corporation	–	✅ citácia: Hays et al., 1993
+Kľúčové zistenia
+
+RMDQ aj RAND-36 sú verejná doména — nevyžadujú povolenie ani na preklad.
+
+Preklad každého nástroja je potrebné robiť štandardizovaným postupom (forward → back-translation → expert review → pilotný test), bez ohľadu na to, či je nástroj chránený alebo verejný.
+
+Pilotné testovanie zrozumiteľnosti (kognitívny pilotný test) stačí na 5–10 ľuďoch celkovo pre všetky nástroje; psychometrická validácia je odložená na budúci výskum.
+
+UEFI-15 (Rasch-validovaná 15-položková verzia) je odporúčaná pre platformu oproti staršej UEFI-20.
+
+Rehabot (slovenská konkurenčná platforma) bol kontaktovaný a ochotne poskytne screenshoty a video ukážky pre teoretickú časť SOČ.
+
+Generované a doplnené pomocou Perplexity AI
