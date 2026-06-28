@@ -382,3 +382,52 @@ UEFI-15 (Rasch-validovaná 15-položková verzia) je odporúčaná pre platformu
 Rehabot (slovenská konkurenčná platforma) bol kontaktovaný a ochotne poskytne screenshoty a video ukážky pre teoretickú časť SOČ.
 
 Generované a doplnené pomocou Perplexity AI
+Chat: Databáza cvikov – Právne, praktické a technické otázky
+Dátum: 27.–28. júna 2026
+
+Kontext
+Riešenie praktických otázok okolo tvorby vlastnej databázy cvikov pre fyzioterapeutickú platformu. Konverzácia nadväzuje na predchádzajúce chaty o príprave prezentácie pre fyzioterapeuta a získavaní povolení pre outcome measures.
+
+O čom bol tento chat
+1. Právna ochrana databáz (EU)
+Databázy v EÚ sú chránené smernicou 96/9/ES – tzv. sui generis právo k databáze.
+
+Ochrana trvá 15 rokov od zverejnenia, ale resetuje sa pri každej podstatnej aktualizácii databázy – Euneo teda môže mať ochranu obnovenej databázy prakticky donekonečna.
+
+Zákon zakazuje extrahovať podstatnú časť databázy, do ktorej bola vložená podstatná investícia.
+
+Samotné názvy cvikov (všeobecné medicínske termíny) nie sú chránené – problémom je systematické vytiahnutie celého obsahu.
+
+Záver: Stiahnuť len názvy + napísať vlastné popisy + natočiť vlastné videá = právne šedá zóna s nízkym rizikom, ale čistejší postup je zostaviť zoznam nezávisle.
+
+2. Rozsah databázy cvikov
+Euneo má 760 cvikov po rokoch vývoja – nie je potrebné mať rovnaký rozsah na štart.
+
+Na SOČ aj bežnú prax stačí 100–150 dobre vybraných cvikov.
+
+Odporúčanie: použiť Physiopedia.com ako verejný zdroj, prípadne konzultovať fyzioterapeuta.
+
+3. Natáčanie videa cvikov
+Plán natáčania: brat + priateľka ako modeli, izba ako priestor, 2 softboxy, požičaná kamera, strih svojpomocne, upload na Bunny.net + link do databázy.
+
+Časová náročnosť: 760 cvikov × ~15 min = ~190 hodín; reálne 30–40 dní natáčania.
+
+Odporúčanie: Spustiť s 150 cvikmi (2–3 natáčacie víkendy), zvyšok dopĺňať postupne. Na SOČ 50 reálnych videí vyzerá lepšie než 760 placeholderov.
+
+4. Spolupráca s fyzioterapeutom na výbere cvikov
+Plán: Dať fyzioterapeutovi tabuľku so zoznamom názvov cvikov (inšpirovanú Euneo), on zaškrtá čo odporučiť.
+
+Čistejší postup: Opýtať sa fyzioterapeuta priamo – „Aké cviky reálne predpisuješ pacientom?" – bez predkladania cudzej databázy.
+
+Bonus: Fyzioterapeut uvedený ako odborný konzultant v SOČke zvyšuje dôveryhodnosť práce.
+
+5. Excel šablóna pre fyzioterapeuta
+Vytvorená .xlsx šablóna s:
+
+Stĺpcami: #, Názov cviku, Oblasť tela, Odporučiť? (dropdown Áno/Nie), Poznámka fyzioterapeuta
+
+Data Validation – rozbaľovacie menu Áno/Nie v každej bunke stĺpca „Odporučiť?"
+
+Filter, zmrazená hlavička, striedanie farieb riadkov
+
+Vysvetlenie ako Data Validation funguje v Exceli (Data → Data Validation → List → Áno,Nie).
